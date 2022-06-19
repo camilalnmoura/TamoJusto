@@ -51,3 +51,4 @@
 2022-06-19 16:51:33,728 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-06-19 16:51:33,753 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\55819\Downloads\desafioJusta-main\desafioJusta-main\desafio-justa\academia-seleniumwebdriver\src\main\resources
 2022-06-19 16:51:33,763 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-19 16:51:33,766 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
