@@ -106,7 +106,7 @@ Se você não tiver, verifique estes links: [Java](https://www.java.com/pt-BR/do
         |  |  |  |  |  |  |-- ChoosingProductsPage.java -- Mapeamento dos elementos
         
         |  |  |  |  |  |-- utils
-        |  |  |  |  |  |  |-- Configuracao.java -- Arquivo que especifica as ações do browser
+        |  |  |  |  |  |  |-- Configuracao.java -- Arquivo que mapeia os localizadores da página
     
     src
         |-- test
