@@ -137,6 +137,12 @@ Se você não tiver, verifique estes links: [Java](https://www.java.com/pt-BR/do
  
  ------
 
+
+	
+### Assistir ao video do Projeto: [Youtube](https://youtu.be/-dDm3xquLR0)
+	
+ ------
+	
 :speech_balloon: [Linkedin](https://www.linkedin.com/in/camilalnmoura/)
 
 
