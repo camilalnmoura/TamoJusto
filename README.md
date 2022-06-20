@@ -139,7 +139,7 @@ Se você não tiver, verifique estes links: [Java](https://www.java.com/pt-BR/do
 
 
 	
-### Assistir ao video do Projeto: [Youtube](https://youtu.be/-dDm3xquLR0)
+### Assistir ao video do Projeto: [Youtube](https://www.youtube.com/watch?v=gMnCI-T4awo)
 	
  ------
 	
